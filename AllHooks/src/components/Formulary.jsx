@@ -71,15 +71,23 @@ function Formulary({}) {
 
     <div className='border-[1px] border-[black] rounded bg-[#75ecdc] text-center'>
         <p>Hi, everybody! nice to meet you !</p>
-        <p>I'm glad to be here with you. because I can knowloge new person in the world.</p>
+        <p>I'm glad to be here with you. because I can knowlodge new person in the world.</p>
         <p>today I'm going to talk about my day.</p>
         <p>My day is very funny and interesting. I always wake up at ten to six am</p>
         <p>Sometime I have breakfast a cup of coffe with bread in the morning. I have breakfast at half past six am .   </p>
-        <p>after that, I leave to work at sevent o'clock. I am busy all day. because I have a lot of to Do. </p>
+        <p>after that, I leave to work at sevent o'clock. I am busy all day. because I have a lot of things to Do. </p>
     </div>
 
-      <div>
-
+      <div className='bg-[#d6f453] font-serif '>
+        <h1 className='text-2xl font-semibold underline'>My working Day</h1>
+        <p>My working day starts very early. From Monday to Friday I get up at half past three and i have a shower and a cup of coffee. </p>
+        <p>I usally leave the house at ten past four because the car always  arrives a few minutes aerly. I get to the studio about at five o'clock and start work. </p>
+        <p>My programmme Good Morning Britain starts at seven o'clock and finish at nine o'clock. </p>
+        <p>Then I leave  the studio a quater past ten. After that, I go shopping and visit some friends. I get home at three o'clock.  </p>
+        <p>A woman helps me with the housework and the ironing. I read a newspaper and do some work.  </p> <br />
+        <p>Then my husband gets home at half past five in the evening and I cook dinner. We stay at home in the evening.  </p>
+        <p>We don't go out because I go to be very aerly. We usually watch tv and then I go to bed at eight, I usually asleep by nine o'clock   </p>
+        <p>I think my job is very interesting but I don't like getting up very early.   </p>
       </div>
     </>
   )
